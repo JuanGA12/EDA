@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/Archivos.h
+QuadTree.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/QuadTree.h
+iostream
+-
+vector
+-
+sstream
+-
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/QuadTree.h
+fstream
+-
+vector
+-
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/main.cpp
+Archivos.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/Archivos.h
+
