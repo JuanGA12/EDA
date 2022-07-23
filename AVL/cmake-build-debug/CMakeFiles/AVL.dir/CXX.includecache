@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/AVL.h
+algorithm
+-
+Node.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/Node.h
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/Node.h
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/main.cpp
+iostream
+-
+AVL.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/AVL.h
+

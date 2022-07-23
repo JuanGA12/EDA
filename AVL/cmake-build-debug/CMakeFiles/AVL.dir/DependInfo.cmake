@@ -4,8 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/QuadTree.cpp" "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/cmake-build-debug/CMakeFiles/QuadTree.dir/QuadTree.cpp.o"
-  "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/main.cpp" "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/QuadTree/cmake-build-debug/CMakeFiles/QuadTree.dir/main.cpp.o"
+  "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/main.cpp" "/Users/juangalvezc/Desktop/7mo Ciclo/EDA/AVL/cmake-build-debug/CMakeFiles/AVL.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 
