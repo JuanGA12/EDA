@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/R-Tree 2d/clase.h
+iostream
+-
+algorithm
+-
+list
+-
+sstream
+-
+fstream
+-
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/R-Tree 2d/main.cpp
+vector
+-
+clase.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/R-Tree 2d/clase.h
+
