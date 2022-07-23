@@ -1,0 +1,56 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.h
+iostream
+-
+sstream
+-
+fstream
+-
+vector
+-
+../Rtree/Node/Node.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Node/Node.h
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Node/Node.h
+iostream
+-
+sstream
+-
+fstream
+-
+vector
+-
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.h
+math.h
+-
+stack
+-
+algorithm
+-
+../Reader/csvReader.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Reader/csvReader.h
+
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/main.cpp
+iostream
+-
+Rtree/Rtree.h
+/Users/juangalvezc/Desktop/7mo Ciclo/EDA/Proyecto-EDA/Rtree/Rtree.h
+chrono
+-
+ctime
+-
+numeric
+-
+string
+-
+functional
+-
+
